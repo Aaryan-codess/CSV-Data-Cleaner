@@ -1,0 +1,10 @@
+Customer_ID,Name,Email,City
+101, Aryan ,ARYAN@GMAIL.COM, Hyderabad
+102, Rahul,rahul@gmail.com, Mumbai
+103, Priya,PRIYA@GMAIL.COM, Delhi
+104, Rahul,rahul@gmail.com, Mumbai
+105, Sneha, , Chennai
+106, Kiran,kiran@gmail.com, Hyderabad
+107, Amit,AMIT@GMAIL.COM,
+108,  Meera  ,MEERA@YAHOO.COM, Pune
+109, Arjun,invalid-email, Bangalore
