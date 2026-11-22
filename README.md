@@ -1,4 +1,3 @@
-
 # CSV Data Cleaner
 
 A Python-based CSV data cleaning and validation tool designed to process customer records, standardize data, identify data-quality issues, and generate a cleaned CSV file.
@@ -89,19 +88,4 @@ Test dataset: 9 customer records.
 ## Limitations
 
 - Email validation uses basic format checking, not mailbox verification.
-- Duplicate detection is based on Customer_ID.
-- The program currently processes one input CSV file per execution.
-
-## Sample Data Disclaimer
-
-The CSV file included in this repository contains fictional sample customer data created exclusively for testing and demonstration.
-
-No real personal information is intentionally included.
-
-## Project Status
-
-Core implementation and initial output verification completed.
-
-## Author
-
-Mission 50K — Portfolio Project 01
+- Duplicate
