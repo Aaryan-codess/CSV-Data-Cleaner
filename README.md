@@ -27,7 +27,7 @@ No external Python packages are required.
 ## Project Structure
 
 ```text
-Project-01-CSV-Cleaner/
+CSV-Data-Cleaner/
 │
 ├── src/
 │   └── csv_cleaner.py
@@ -50,10 +50,10 @@ Project-01-CSV-Cleaner/
 
 ## Usage
 
-Run the following command from the Mission50k directory:
+Run the following command from the parent directory containing the project folder:
 
 ```bash
-python Project-01-CSV-Cleaner/src/csv_cleaner.py
+python CSV-Data-Cleaner/src/csv_cleaner.py
 ```
 
 ## Input CSV Format
@@ -88,4 +88,19 @@ Test dataset: 9 customer records.
 ## Limitations
 
 - Email validation uses basic format checking, not mailbox verification.
-- Duplicate
+- Duplicate detection is based on Customer_ID.
+- The program currently processes one input CSV file per execution.
+
+## Sample Data Disclaimer
+
+The CSV file included in this repository contains fictional sample customer data created exclusively for testing and demonstration.
+
+No real personal information is intentionally included.
+
+## Project Status
+
+Core implementation and initial output verification completed.
+
+## Author
+
+Aryan
